@@ -7,9 +7,9 @@ def using_insert(arr, el)
 end
 
 def using_uniq(arr)
-  arr.uniq!
+  arr.uniq
 end
 
 def using_flatten(arr)
-  arr.flatten!
+  arr.flatten
 end
